@@ -4,11 +4,25 @@
                 <meta charset="UTF-8">
                 <meta http-equiv="refresh" content="0;url=steam://connect/187.22.179.237:27017/ggez">
                 <title>Redirecionando para o servidor TTT...</title>
+                <link rel="stylesheet" href="./static/main.css">
+                <link rel="icon" href="./static/favicon.png">
+                <link rel="shortcut icon" href="./static/favicon.png" type="image/x-icon">
         </head>
         <body>
+                <!-- <div id="icon-container">
+                        <img style="width: 200px;" src="./static/icon.png" alt="Zen"></img>
+                </div> -->
+                <main>
+                        
+                        <p id="msg">Se você não foi redirecionado, significa que não passou um parâmetro específico. Veja nossos servidores abaixo:</p>
+                </main>
+                <script src="./static/main.js" type="text/javascript"></script>
                 <script type="text/javascript">
-                window.location.href = "steam://connect/187.22.179.237:27017/ggez"
+                        let query = window.location.search.replace("?", "").split("=")[1]
+
+                        generateButtons()
+
+                        window.location.href = generateConnectionString(fetchServerObj(query))
                 </script>
-                <p>Se você não foi redirecionado, <a href="steam://connect/187.22.179.237:27017/ggez">clique aqui</a>.</p>
         </body>
 </html>
