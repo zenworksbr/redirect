@@ -5,16 +5,21 @@ const servers = {
                 "port": 27017,
                 "password": "ggez"
         },
-        "zombieescape": {
+        "zm": {
+                "name": "ZenbieMode",
+                "ip": "187.22.179.237",
+                "port": 27115 
+        },
+        "ze": {
                 "name": "ZenEscape",
                 "ip": "187.22.179.237",
                 "port": 27015
         },
-        "jailbreak": {
+        "jb": {
                 "name": "ZenBreak",
                 "ip": "187.22.179.237",
                 "port": 27050
-        }
+        },
 }
 
 function fetchServerObj(param) {
