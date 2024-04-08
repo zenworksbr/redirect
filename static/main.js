@@ -23,6 +23,9 @@ const servers = {
 }
 
 function fetchServerObj(param) {
+        if (param == undefined) {
+                return servers.ttt
+        }
         return servers[param]
 }
 
