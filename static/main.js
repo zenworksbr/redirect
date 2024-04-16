@@ -2,8 +2,7 @@ const servers = {
         "ttt": {
                 "name": "NotZenTown",
                 "ip": "138.199.5.132",
-                "port": 27015,
-                "password": "ggez"
+                "port": 27015
         },
         "zm": {
                 "name": "ZenbieMode",
