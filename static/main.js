@@ -1,27 +1,27 @@
 const servers = {
         "ttt": {
                 "name": "NotZenTown",
-                "ip": "yang.zenworks.com.br",
+                "ip": "66.70.238.69",
                 "port": 27015
         },
         "murder": {
                 "name": "ZenAssassination",
-                "ip": "yang.zenworks.com.br",
+                "ip": "66.70.238.69",
                 "port": 27016
         },
         "ze": {
                 "name": "ZenEscape",
-                "ip": "yang.zenworks.com.br",
+                "ip": "66.70.238.69",
                 "port": 27017
         },
         "zm": {
                 "name": "ZenbieMode",
-                "ip": "yang.zenworks.com.br",
+                "ip": "66.70.238.69",
                 "port": 27018 
         },
         "jb": {
                 "name": "ZenBreak",
-                "ip": "yang.zenworks.com.br",
+                "ip": "66.70.238.69",
                 "port": 27050
         },
 }
