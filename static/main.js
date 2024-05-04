@@ -1,27 +1,27 @@
 const servers = {
         "ttt": {
                 "name": "NotZenTown",
-                "ip": "66.70.238.69",
+                "ip": "93.127.210.222",
                 "port": 27015
         },
         "murder": {
                 "name": "ZenAssassination",
-                "ip": "66.70.238.69",
+                "ip": "93.127.210.222",
                 "port": 27016
         },
         "ze": {
                 "name": "ZenEscape",
-                "ip": "66.70.238.69",
+                "ip": "93.127.210.222",
                 "port": 27017
         },
         "zm": {
                 "name": "ZenbieMode",
-                "ip": "66.70.238.69",
+                "ip": "93.127.210.222",
                 "port": 27018 
         },
         "jb": {
                 "name": "ZenBreak",
-                "ip": "66.70.238.69",
+                "ip": "93.127.210.222",
                 "port": 27050
         },
 }
