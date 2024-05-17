@@ -29,6 +29,11 @@ const servers = {
                 "ip": "93.127.210.222",
                 "port": 27050
         },
+        "mvm": {
+                "name": "Mann vs. Zen",
+                "ip": "93.127.210.222",
+                "port": 27019   
+        }
 }
 
 function fetchServerObj(param) {
