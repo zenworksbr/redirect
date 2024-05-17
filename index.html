@@ -20,7 +20,9 @@
 
                         generateButtons()
 
-                        window.location.href = generateConnectionString(fetchServerObj(query))
+                        if (query) {
+                                window.location.href = generateConnectionString(fetchServerObj(query))
+                        }
                 </script>
         </body>
 </html>
