@@ -14,6 +14,11 @@ const servers = {
                 "ip": "93.127.210.222",
                 "port": 7777 
         },
+        "mvm": {
+                "name": "Mann vs. Zen",
+                "ip": "93.127.210.222",
+                "port": 27019   
+        },
         "ze": {
                 "name": "ZenEscape",
                 "ip": "93.127.210.222",
@@ -28,11 +33,6 @@ const servers = {
                 "name": "ZenBreak",
                 "ip": "93.127.210.222",
                 "port": 27050
-        },
-        "mvm": {
-                "name": "Mann vs. Zen",
-                "ip": "93.127.210.222",
-                "port": 27019   
         }
 }
 
