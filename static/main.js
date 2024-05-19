@@ -6,7 +6,7 @@ const servers = {
         },
         "murder": {
                 "name": "ZenAssassination",
-                "ip": "131.196.196.197",
+                "ip": "131.196.196.196",
                 "port": 27280
         },
         "kf2": {
