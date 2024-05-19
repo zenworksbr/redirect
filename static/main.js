@@ -1,13 +1,13 @@
 const servers = {
         "ttt": {
                 "name": "NotZenTown",
-                "ip": "93.127.210.222",
-                "port": 27015
+                "ip": "131.196.196.197",
+                "port": 27300
         },
         "murder": {
                 "name": "ZenAssassination",
-                "ip": "93.127.210.222",
-                "port": 27016
+                "ip": "131.196.196.197",
+                "port": 27280
         },
         "kf2": {
                 "name": "NotZenFloor",
