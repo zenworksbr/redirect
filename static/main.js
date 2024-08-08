@@ -8,31 +8,6 @@ const servers = {
                 "name": "ZenAssassination",
                 "ip": "131.196.196.196",
                 "port": 27280
-        },
-        "kf2": {
-                "name": "NotZenFloor",
-                "ip": "93.127.210.222",
-                "port": 7777 
-        },
-        "mvm": {
-                "name": "Mann vs. Zen",
-                "ip": "93.127.210.222",
-                "port": 27019   
-        },
-        "ze": {
-                "name": "ZenEscape",
-                "ip": "93.127.210.222",
-                "port": 27017
-        },
-        "zm": {
-                "name": "ZenbieMode",
-                "ip": "93.127.210.222",
-                "port": 27018 
-        },
-        "jb": {
-                "name": "ZenBreak",
-                "ip": "93.127.210.222",
-                "port": 27050
         }
 }
 
