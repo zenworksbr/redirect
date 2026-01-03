@@ -1,14 +1,9 @@
 const servers = {
         "ttt": {
-                "name": "NotZenTown",
-                "ip": "131.196.196.197",
-                "port": 27300
+                "name": "zen ttt",
+                "ip": "56.126.89.99",
+                "port": 27015
         },
-        "murder": {
-                "name": "ZenAssassination",
-                "ip": "131.196.196.196",
-                "port": 27280
-        }
 }
 
 function fetchServerObj(param) {
